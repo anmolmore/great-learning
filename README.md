@@ -1,7 +1,8 @@
 # great-learning
 Code samples for great learning mentor sessions
 
-### Useful Links - 1st August, 2021
+### Useful Links - 
+
 #### Code examples of imbalance datasets -
 https://imbalanced-learn.org/stable/auto_examples/index.html#general-examples
 
