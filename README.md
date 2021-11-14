@@ -13,9 +13,9 @@ Amazon Sage Maker - https://aws.amazon.com/getting-started/hands-on/build-train-
 
 
 
-### Computer Vision
+# Computer Vision
 
-## Week 1 
+### Week 1 
 
 https://towardsdatascience.com/conv2d-to-finally-understand-what-happens-in-the-forward-pass-1bbaafb0b148
 
