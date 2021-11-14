@@ -18,7 +18,9 @@ Amazon Sage Maker - https://aws.amazon.com/getting-started/hands-on/build-train-
 ## Week 1 
 
 https://towardsdatascience.com/conv2d-to-finally-understand-what-happens-in-the-forward-pass-1bbaafb0b148
+
 https://leonardoaraujosantos.gitbook.io/artificial-inteligence/machine_learning/deep_learning/convolution
+
 https://towardsdatascience.com/how-to-calculate-the-number-of-parameters-in-keras-models-710683dae0ca
 
 
