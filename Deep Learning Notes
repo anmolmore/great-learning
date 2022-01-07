@@ -1,0 +1,56 @@
+conda create -n great-learning python=3.6
+
+conda install -c conda-forge tensorflow
+conda install -c anaconda jupyter
+
+*Video explaining back-propagation* - https://www.youtube.com/watch?v=Ilg3gGewQ5U
+
+*Activation Functions* - https://medium.com/@cmukesh8688/activation-functions-sigmoid-tanh-relu-leaky-relu-softmax-50d3778dcea5
+
+*Loss Functions* - https://towardsdatascience.com/cross-entropy-loss-function-f38c4ec8643e
+
+*Optimization Functions* - https://www.kdnuggets.com/2020/12/optimization-algorithms-neural-networks.html
+
+*Finding local or global minima* - https://machinelearningmastery.com/why-training-a-neural-network-is-hard/
+
+*Tensorflow playground* - https://playground.tensorflow.org
+
+*Tensorflow Tutorials* -
+https://www.tensorflow.org/tutorials
+
+
+Most of the models, I have tried selecting the plane back. You may check these websites for more models if you want to look -
+
+With Hydraulic storage, similar to what we saw yesterday - https://www.furny.in/lcl/furny-rohena-engineered-wood-bed-with-hydraulic-storage-brown.html
+
+https://www.furny.in/lcl/furny-krisaan-engineered-wood-bed-with-box-storage-brown.html
+https://www.furny.in/lcl/furny-evan-heavy-duty-engineered-wood-bed-with-box-storage-15mm-branded-engineered-wood.html
+
+https://www.evok.in/tessa-engineerwood-queen-bed-with-box-storage-walnut/p/16638779
+
+https://www.woodenstreet.com/evaline-bed-with-box-storage-king-size-exotic-teak-finish
+
+Few options are good here - https://www.urbanladder.com/beds-with-storage?src=g_breadcrumb&sort=price_asc
+
+
+Dimension of a output layer, depends on what is the problem statement we are trying to solve.
+How we obtain this ? Depending on problem statement we choose the activation function of final layer to get desired output structure, some examples below :
+
+*Output Layer Dimensions:*
+For Binary Classification - Single Number (Probability) --> Activation Function (Sigmoid)
+For Multi Class Classification - 1D Vector (Probabilities of each class) --> Activation Function (Softmax)
+Multi Label, Multi Class Classification - n dimensional matrix with probabilities. With neural network we can even predict two outcomes at one go, like height and weight for given inputs
+Regression - Single Number -> Activation Functions (Linear, Relu)
+
+Also, note typically you don't deal with one sample from training set. So, even for a regression with 100 rows as input, dimension of output layer is 100x1. And similar thoughts you can build around classifications. Hope it helps to understand ! 
+
+
+*Another question was - Whether we use output numbers or probabilites in backpropagation ?*
+My understanding is that we take final layer as 1st input to back-propagation. But, As I read through, different blogs and see their mathematical notations - 
+I find that some mathematical representations are taking final layer as input ie. fx (before applying final activation function) to back propagation, while others are taking final output as input, ie. taking derivative of activation(f(x)) as input.
+
+Meanwhile I'm also trying to read more about second query, request you to write to academic team/ professors to understand more.
+
+https://towardsdatascience.com/17-rules-of-thumb-for-building-a-neural-network-93356f9930af
+
+Derivative of sigmoid function - https://towardsdatascience.com/derivative-of-the-sigmoid-function-536880cf918e
