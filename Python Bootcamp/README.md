@@ -15,12 +15,12 @@ array([2. ,  2.2,  2.4,  2.6,  2.8])
 (array([2.  ,  2.25,  2.5 ,  2.75,  3.  ]), 0.25)
 
 ### Does python has a compiler or interpreter ?
-Python code is run using python compiler, which does step 1 - Compilation and then Interpretation
-Ref : 
+Python code is run using python compiler, which does step 1 - Compilation and then Interpretation<br/>
+Ref : <br/>
 https://towardsdatascience.com/understanding-python-bytecode-e7edaae8734d
 
 ### what is range of random numbers
-Random module in python by default generates values between 0 to 1. But there are multiple functions available in random package, which gives you all possible options.
+Random module in python by default generates values between 0 to 1. But there are multiple functions available in random package, which gives you all possible options.<br/>
 Ref - https://docs.python.org/3/library/random.html
   
 ### whether merge and join same
