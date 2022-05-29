@@ -24,9 +24,17 @@ Random module in python by default generates values between 0 to 1. But there ar
 Ref - https://docs.python.org/3/library/random.html
   
 ### whether merge and join same
+Yes, more or less they combine two arrays. My personal preference is merge because is works more like a sql query.<br/>
+Ref :  https://pandas.pydata.org/docs/user_guide/merging.html
 
 ### Do we have a way to see the list of available functions of a list? like help
-  
+Python has thousands of packages, both open source and commercial (paid). There is no single place to get all documentations. Some major documentation links are : <br/>
+- https://docs.python.org/3/
+- https://numpy.org
+- https://pandas.pydata.org/docs/
+- https://scikit-learn.org/stable/
+We can use inbuilt help() function directly in jupyter notebook to get documentation for specific function/library
+
 ### pop and remove are same?
   
 ### while doing square, by using the syntax, 2^2...why is giving the value 0, despite no function like this in python
