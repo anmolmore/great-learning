@@ -1,7 +1,7 @@
 ### Q&A of important/ unanswered queries from session
-### Note : Please reach out on :
+### Note : Please reach out :
 - Email - anmolmore{at}gmail{dot}{com}
-- LinkedIn - https://www.linkedin.com/in/anmol-more for queries.
+- LinkedIn - https://www.linkedin.com/in/anmol-more , please mention GL Batch.
 
 ## Week 1 :
 
