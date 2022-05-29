@@ -1,6 +1,6 @@
 ### Q&A of important/ unanswered queries from session
 ### Note : Please reach out on :
-- Email - anmolmore<at>gmail<dot><com>
+- Email - anmolmore{at}gmail{dot}{com}
 - LinkedIn - https://www.linkedin.com/in/anmol-more for queries.
 
 ## Week 1 :
