@@ -68,3 +68,9 @@ Tuple cannot be changed, has limited set of functionalities - so consumes less m
 Detailed answer - https://stackoverflow.com/questions/46664007/why-do-tuples-take-less-space-in-memory-than-lists
  
 ### Please explain the bytes over str
+In simple words - string is human readable, bytes are machine readable. This requires a deeper understanding of memory allocations. Some good reads - <br>
+Ref : <br/>
+- https://towardsdatascience.com/byte-string-unicode-string-raw-string-a-guide-to-all-strings-in-python-684c4c4960ba <br>
+- https://towardsdatascience.com/byte-string-unicode-string-raw-string-a-guide-to-all-strings-in-python-684c4c4960ba
+  
+  
