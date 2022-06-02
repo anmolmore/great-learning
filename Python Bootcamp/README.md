@@ -74,3 +74,6 @@ Ref : <br/>
 - https://towardsdatascience.com/byte-string-unicode-string-raw-string-a-guide-to-all-strings-in-python-684c4c4960ba
   
   
+## Week 2
+
+Python for Data Science Basics Cheat Sheet - https://datacamp-community-prod.s3.amazonaws.com/0eff0330-e87d-4c34-88d5-73e80cb955f2
