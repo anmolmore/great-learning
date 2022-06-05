@@ -77,3 +77,13 @@ Ref : <br/>
 ## Week 2
 
 Python for Data Science Basics Cheat Sheet - https://datacamp-community-prod.s3.amazonaws.com/0eff0330-e87d-4c34-88d5-73e80cb955f2
+
+### Difference between assignment, shallow copy, deep copy
+- Assignment referes to same location as original object
+- A shallow copy constructs a new object and then, inserts references into it to the objects found in the original.
+- A deep copy constructs a new object all togethor
+Ref : https://towardsdatascience.com/assignment-shallow-or-deep-a-story-about-pythons-memory-management-b8fad87bfa6c
+
+### How are strings stored internally
+- Python doesn't have anything called characters, strings are stored as UNICODE sequences. This article explains in detail about strings - https://medium.com/@bdov_/https-medium-com-bdov-python-objects-part-iii-string-interning-625d3c7319de <br/>
+Ref : https://peps.python.org/pep-0393/
