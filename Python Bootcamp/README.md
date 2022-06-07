@@ -99,16 +99,15 @@ Ref : https://stackoverflow.com/questions/30602395/why-does-returning-in-interac
 - enumerate requires index to be monitored. Zip can help iterate multiple items at one go
 
 They both can be used together also<br/>
-  # create a list of names
+  - create a list of names
   >>names = ['sravan', 'bobby', 'ojaswi', 'rohith', 'gnanesh']
 
-  # create a list of subjects
+  - create a list of subjects
   >>subjects = ['java', 'python', 'R', 'cpp', 'bigdata']
 
-  # create a list of marks
+  - create a list of marks
   >>marks = [78, 100, 97, 89, 80]
 
-  # use enumerate() and zip() function
-  # to iterate the lists
+  - use enumerate() and zip() function to iterate the lists
   >>for i, (names, subjects, marks) in enumerate(zip(names, subjects, marks)):
-  >>    print(i, names, subjects, marks)
+  >>  print(i, names, subjects, marks)
