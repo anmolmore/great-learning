@@ -87,3 +87,28 @@ Ref : https://towardsdatascience.com/assignment-shallow-or-deep-a-story-about-py
 ### How are strings stored internally
 - Python doesn't have anything called characters, strings are stored as UNICODE sequences. This article explains in detail about strings - https://medium.com/@bdov_/https-medium-com-bdov-python-objects-part-iii-string-interning-625d3c7319de <br/>
 Ref : https://peps.python.org/pep-0393/
+
+### Jupyter notebook (Interactive python terminal) print formatting is different ?
+The interactive interpreter will print whatever is returned by the expression you type and execute, as a way to make testing and debugging convenient. <br/>
+Ref : https://stackoverflow.com/questions/30602395/why-does-returning-in-interactive-python-print-to-sys-stdout
+
+
+### Difference between zip and enumerate
+- enumerate is special case of zip
+- Enumerate can only process lists, where as zip can iterate through other data strcutures also.
+- enumerate requires index to be monitored. Zip can help iterate multiple items at one go
+
+They both can be used together also<br/>
+  # create a list of names
+  >>names = ['sravan', 'bobby', 'ojaswi', 'rohith', 'gnanesh']
+
+  # create a list of subjects
+  >>subjects = ['java', 'python', 'R', 'cpp', 'bigdata']
+
+  # create a list of marks
+  >>marks = [78, 100, 97, 89, 80]
+
+  # use enumerate() and zip() function
+  # to iterate the lists
+  >>for i, (names, subjects, marks) in enumerate(zip(names, subjects, marks)):
+  >>    print(i, names, subjects, marks)
