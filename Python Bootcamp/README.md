@@ -112,6 +112,25 @@ They both can be used together also<br/>
   >>for i, (names, subjects, marks) in enumerate(zip(names, subjects, marks)):
   >>  print(i, names, subjects, marks)
 
+### Difference between dictionary and hashmap
+https://stackoverflow.com/questions/10066374/difference-between-map-and-dict
+
+### How to write switch case in python
+This is acheived using a dictionary map and writing switcher statements corresponding to it.
+https://pythonguides.com/case-statement-in-python/
+
+### What is signature of a function
+we have a signature function in inspect module. A simple example  below
+
+>>> from inspect import signature
+>>> def foo() -> None:
+...     pass
+... 
+>>> signature(foo)
+<Signature () -> None>
+
+Ref : https://peps.python.org/pep-0362/
+
 
 ## Week 3 - Numpy and Pandas
 
