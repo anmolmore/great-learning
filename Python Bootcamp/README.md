@@ -122,12 +122,12 @@ https://pythonguides.com/case-statement-in-python/
 ### What is signature of a function
 we have a signature function in inspect module. A simple example  below
 
->>> from inspect import signature
->>> def foo() -> None:
-...     pass
-... 
->>> signature(foo)
-<Signature () -> None>
+>>> from inspect import signature <br/>
+>>> def foo() -> None: <br/>
+...   pass <br/>
+...
+>>> signature(foo) <br/>
+<Signature () -> None>  <br/>
 
 Ref : https://peps.python.org/pep-0362/
 
