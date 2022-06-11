@@ -111,3 +111,8 @@ They both can be used together also<br/>
   - use enumerate() and zip() function to iterate the lists
   >>for i, (names, subjects, marks) in enumerate(zip(names, subjects, marks)):
   >>  print(i, names, subjects, marks)
+
+
+## Week 3 - Numpy and Pandas
+
+### Slicing numpy arrays - https://towardsdatascience.com/slicing-numpy-arrays-like-a-ninja-e4910670ceb0
