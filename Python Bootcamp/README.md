@@ -136,3 +136,13 @@ Ref : https://peps.python.org/pep-0362/
 
 ### Slicing numpy arrays
 https://towardsdatascience.com/slicing-numpy-arrays-like-a-ninja-e4910670ceb0
+
+### Difference between various serialization techniques in python
+https://docs.python.org/3/library/pickle.html
+
+### Important numpy functions
+https://numpy.org/doc/stable/reference/generated/numpy.empty.html
+
+
+
+
