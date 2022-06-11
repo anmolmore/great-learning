@@ -115,4 +115,5 @@ They both can be used together also<br/>
 
 ## Week 3 - Numpy and Pandas
 
-### Slicing numpy arrays - https://towardsdatascience.com/slicing-numpy-arrays-like-a-ninja-e4910670ceb0
+### Slicing numpy arrays
+https://towardsdatascience.com/slicing-numpy-arrays-like-a-ninja-e4910670ceb0
