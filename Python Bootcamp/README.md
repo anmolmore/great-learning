@@ -144,5 +144,9 @@ https://docs.python.org/3/library/pickle.html
 https://numpy.org/doc/stable/reference/generated/numpy.empty.html
 
 
+## Week 4 - Visualization
 
+### Difference between conda and conda-forge
+Doesn't makes a difference for general developement purposes<br>
+https://stackoverflow.com/questions/39857289/should-conda-or-conda-forge-be-used-for-python-environments
 
