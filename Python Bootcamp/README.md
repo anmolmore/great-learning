@@ -152,5 +152,5 @@ https://stackoverflow.com/questions/39857289/should-conda-or-conda-forge-be-used
 
 ### Important links 
 - Scaling effect - https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html
-- 
+- Error bars in sns barplot - https://stackoverflow.com/questions/58362473/what-does-black-lines-on-a-seaborn-barplot-mean
 
