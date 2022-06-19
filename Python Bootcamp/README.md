@@ -150,3 +150,7 @@ https://numpy.org/doc/stable/reference/generated/numpy.empty.html
 Doesn't makes a difference for general developement purposes<br>
 https://stackoverflow.com/questions/39857289/should-conda-or-conda-forge-be-used-for-python-environments
 
+### Important links 
+- Scaling effect - https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html
+- 
+
